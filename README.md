@@ -87,10 +87,14 @@ In the [examples](examples/) directory there are some code examples:
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
 
-## Ubuntu 20
+## Ubuntu 20.04
 sudo python3 setup.py build
+
 sudo python3 setup.py install
+
 !pip install --upgrade numpy
+
 Change opencv-python==4.3.0.36 in requirements.txt
+
 python3 examples/simple.py 
 
